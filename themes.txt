@@ -1,0 +1,15 @@
+####### theme 1
+[theme]
+primaryColor="#d33682"
+backgroundColor="#002b36"
+secondaryBackgroundColor="#586e75"
+textColor="#fafafa"
+font="sans serif
+
+####### theme 2
+[theme]
+primaryColor="#f93b3b"
+backgroundColor="#041429"
+secondaryBackgroundColor="#011831"
+textColor="#f5f0f0"
+font="sans serif"
